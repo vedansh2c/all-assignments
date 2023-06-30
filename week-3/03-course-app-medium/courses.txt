@@ -1,0 +1,1 @@
+[{"title":"course 1 updated","description":"course1 description updated","price":100,"imageLink":"https://linktoimage.com","published":true,"courseID":"1"},{"title":"course 1 updated","description":"course1 description updated","price":100,"imageLink":"https://linktoimage.com","published":true,"courseID":"2"}]
